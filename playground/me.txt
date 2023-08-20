@@ -1,5 +1,0 @@
-{{#user}}
-Name: Charanya S
-Skills: HTML, CSS, JS, MERN stack
-Email: charanya1784@gmail.com
-{{/user}}
